@@ -1,0 +1,11 @@
+{
+  "id": "say_mcdr_command",
+  "version": "0.1.0",
+  "name": "Say MCDR Command",
+  "description": {
+    "en_us": "Sending MCDR command with /say",
+    "zh_cn": "使用/say发送MCDR命令"
+  },
+  "author": "JOZA_ORANGE",
+  "link": "https://github.com/JOZA-ORANGE/MCDR-Say-MCDR-Command"
+}
